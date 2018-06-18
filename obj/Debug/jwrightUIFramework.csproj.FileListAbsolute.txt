@@ -1,0 +1,7 @@
+D:\Gerry\CSharp\SystemFramework\jwrightUIFramework\obj\Debug\jwrightUIFramework.csprojResolveAssemblyReference.cache
+D:\Gerry\CSharp\SystemFramework\jwrightUIFramework\obj\Debug\jwrightUIFramework.Properties.Resources.resources
+D:\Gerry\CSharp\SystemFramework\jwrightUIFramework\obj\Debug\jwrightUIFramework.UI.AbstractForm.resources
+D:\Gerry\CSharp\SystemFramework\jwrightUIFramework\obj\Debug\jwrightUIFramework.UI.BaseEntryForm.resources
+D:\Gerry\CSharp\SystemFramework\jwrightUIFramework\obj\Debug\jwrightUIFramework.UI.LoginForm.resources
+D:\Gerry\CSharp\SystemFramework\jwrightUIFramework\obj\Debug\jwrightUIFramework.UI.LookupForm.resources
+D:\Gerry\CSharp\SystemFramework\jwrightUIFramework\obj\Debug\jwrightUIFramework.csproj.GenerateResource.Cache
